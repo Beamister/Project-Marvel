@@ -1,0 +1,12 @@
+NET "Clk" LOC = P184;
+NET "Red[0]" LOC = P96;
+NET "Red[1]" LOC = P98;
+NET "Red[2]" LOC = P100;
+NET "Green[0]" LOC = P106;
+NET "Green[1]" LOC = P108;
+NET "Green[2]" LOC = P102;
+NET "Blue[0]" LOC = P94;
+NET "Blue[1]" LOC = P97;
+
+NET "HS"  LOC = P115;
+NET "VS"  LOC = P113;
